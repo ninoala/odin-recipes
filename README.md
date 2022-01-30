@@ -1,1 +1,2 @@
 # odin-recipes
+My first HTML website, created as a part of learning to code through The Odin Project. I've tried to make it look closer to what an actual webpage wouild look like without using CSS, only HTML. I've used the tags center and align for images and text, as well as body style="" to have a different background color. All the images used are free and came from unsplash.com.
